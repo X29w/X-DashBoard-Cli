@@ -2,7 +2,7 @@
 
 ## 简介
 
-`create-x-dashboard-admin-template` 是一个命令行工具，用于快速创建后端管理模板项目。它可以帮助开发者快速搭建项目结构，节省时间和精力。
+`create-x-dashboard` 是一个命令行工具，用于快速创建管理模板项目。它可以帮助开发者快速搭建项目结构，节省时间和精力。
 
 ## 特性
 
@@ -17,7 +17,7 @@
 
 ```
 
-npm install -g create-x-dashboard-admin-template
+npm install -g create-x-dashboard
 
 ```
 
@@ -27,7 +27,7 @@ npm install -g create-x-dashboard-admin-template
 
 ```
 
-create-x-dashboard-admin-template <project-name> [options]
+create-x-dashboard <project-name> [options]
 
 ```
 
@@ -40,7 +40,7 @@ create-x-dashboard-admin-template <project-name> [options]
 
 ```
 
-create-x-dashboard-admin-template my-project --latest
+create-x-dashboard my-project --latest
 
 ```
 
@@ -58,7 +58,7 @@ create-x-dashboard-admin-template my-project --latest
 
 ## Introduction
 
-`create-x-dashboard-admin-template` is a command-line tool for quickly creating backend admin template projects. It helps developers set up project structures quickly, saving time and effort.
+`create-x-dashboard` is a command-line tool for quickly creating admin template projects. It helps developers set up project structures quickly, saving time and effort.
 
 ## Features
 
@@ -73,7 +73,7 @@ You can install this tool via npm:
 
 ```
 
-npm install -g create-x-dashboard-admin-template
+npm install -g create-x-dashboard
 
 ```
 
@@ -83,7 +83,7 @@ Create a new project using the command line:
 
 ```
 
-create-x-dashboard-admin-template <project-name> [options]
+create-x-dashboard <project-name> [options]
 
 ```
 
@@ -96,7 +96,7 @@ create-x-dashboard-admin-template <project-name> [options]
 
 ```
 
-create-x-dashboard-admin-template my-project --latest
+create-x-dashboard my-project --latest
 
 ```
 
@@ -114,7 +114,7 @@ This project is licensed under the ISC License. See the LICENSE file for details
 
 ## 概要
 
-`create-x-dashboard-admin-template` は、バックエンド管理テンプレートプロジェクトを迅速に作成するためのコマンドラインツールです。開発者がプロジェクト構造を迅速にセットアップできるようにし、時間と労力を節約します。
+`create-x-dashboard` は、管理テンプレートプロジェクトのクイックセットアップのためのコマンドラインツールです。開発者は、時間と労力を節約するために、プロジェクト構造を迅速にセットアップできます。
 
 ## 特徴
 
@@ -129,7 +129,7 @@ This project is licensed under the ISC License. See the LICENSE file for details
 
 ```
 
-npm install -g create-x-dashboard-admin-template
+npm install -g create-x-dashboard
 
 ```
 
@@ -139,7 +139,7 @@ npm install -g create-x-dashboard-admin-template
 
 ```
 
-create-x-dashboard-admin-template <project-name> [options]
+create-x-dashboard <project-name> [options]
 
 ```
 
@@ -152,7 +152,7 @@ create-x-dashboard-admin-template <project-name> [options]
 
 ```
 
-create-x-dashboard-admin-template my-project --latest
+create-x-dashboard my-project --latest
 
 ```
 

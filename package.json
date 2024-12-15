@@ -1,16 +1,27 @@
 {
-  "name": "create-x-dashboard-admin-template",
+  "name": "create-x-dashboard",
   "version": "1.0.0",
   "main": "index.js",
-  "bin": {
-    "create-x-dashboard-admin-template": "./dist/index.js"
+  "authors": "x29",
+  "publishConfig": {
+    "access": "public"
   },
+  "bin": {
+    "create-x-dashboard": "./dist/index.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/X29w/X-DashBoard-Cli.git"
+  },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "start": "ts-node src/index.ts",
     "test": "npm run build && npm link"
   },
-  "keywords": [],
   "author": "x29",
   "license": "ISC",
   "description": "CLI for creating backend admin templates",
